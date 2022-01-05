@@ -1,6 +1,6 @@
 # Hey! Let's learn about GitHub commands! 
 
-Contributed by Karen Borbor
+Contributed by Karen Borbor!
 
 
 ## Follow this sequence in order to correctly fork and clone this repository:
