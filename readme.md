@@ -1,5 +1,8 @@
 # Hey! Let's learn about GitHub commands! 
 
+Contributed by Karen Borbor
+
+
 ## Follow this sequence in order to correctly fork and clone this repository:
 
 1. Fork the repository via the fork button at the top left of the repository page
